@@ -1,11 +1,12 @@
 {
-  "name": "dokumentacja",
+  "name": "brydz dla malp",
   "version": "0.0.1",
-  "description": "dokumentacja jako strona",
+  "description": "srednio zaawansowany kurs brydza",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
     "next": "^15.0.3",
