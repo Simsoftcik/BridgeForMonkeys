@@ -12,6 +12,4 @@ export default withNextra({
     unoptimized: true,
   },
   output: "export",
-  // trailingSlash: true,
-  // basePath: "/docs",
 });
