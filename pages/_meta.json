@@ -1,4 +1,8 @@
 {
-    "index" : "intro",
-    "lesson1" : "#1 Alfabet brydżowy💥🛡️🏷"
+    "index" : {
+        "title": "intro"
+    },
+    "lesson1" : {
+        "title": "#1 Alfabet brydżowy💥🛡️🏷"
+    }
 }
