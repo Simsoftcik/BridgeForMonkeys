@@ -1,14 +1,9 @@
 {
-    "index" : {
-        "title": "intro",
-        "type": "page"
+    "index": {
+      "title": "🏠"
     },
-    "lesson1" : {
-        "title": "#1 Alfabet brydżowy💥🛡️🏷",
-        "type": "page"
-    },
-    "lesson2" : {
-        "title": "#2 Przypomnienie podstaw rozrgwyki💥",
+    "lekcje" : {
+        "title": "lekcje",
         "type": "page"
     }
 }
